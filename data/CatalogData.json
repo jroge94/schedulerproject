@@ -1,0 +1,272 @@
+[
+    {
+        "dept": "CSC",
+        "course_number": 2259,
+        "course_name": "DISCRETE STRUCTURES",
+        "credits": 3,
+        "start_time": "1:30",
+        "end_time": "2:50",
+        "days": "T TH"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 2262,
+        "course_name": "NUMERICAL METHODS",
+        "credits": 3,
+        "start_time": "9:00",
+        "end_time": "10:20",
+        "days": "T TH"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 2262,
+        "course_name": "NUMERICAL METHODS",
+        "credits": 3,
+        "start_time": "1:30",
+        "end_time": "2:50",
+        "days": "T TH"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 2362,
+        "course_name": "INTRO TO CYBERSECUR",
+        "credits": 3,
+        "start_time": "3:00",
+        "end_time": "4:20",
+        "days": "T TH"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 2463,
+        "course_name": "PROGMMG DGITL MEDIA",
+        "credits": 3,
+        "start_time": "1:30",
+        "end_time": "2:50",
+        "days": "T TH"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 2610,
+        "course_name": "CLOUD & WEB PROGMNG",
+        "credits": 3,
+        "start_time": "9:00",
+        "end_time": "10:20",
+        "days": "T TH"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 3102,
+        "course_name": "ADV DATA STRUCTURES",
+        "credits": 3,
+        "start_time": "3:00",
+        "end_time": "4:20",
+        "days": "T TH"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 3200,
+        "course_name": "ETHICS IN COMPUTING",
+        "credits": 1,
+        "start_time": "1:30",
+        "end_time": "2:20",
+        "days": "M"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 3200,
+        "course_name": "ETHICS IN COMPUTING",
+        "credits": 1,
+        "start_time": "3:30",
+        "end_time": "4:20",
+        "days": "M"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 3304,
+        "course_name": "INTRO TO SYSTM PROG",
+        "credits": 3,
+        "start_time": "11:30",
+        "end_time": "12:20",
+        "days": "M W F"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 3304,
+        "course_name": "INTRO TO SYSTM PROG",
+        "credits": 3,
+        "start_time": "12:00",
+        "end_time": "1:20",
+        "days": "T TH"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 3380,
+        "course_name": "OBJ ORIENTED DESIGN",
+        "credits": 3,
+        "start_time": "10:30",
+        "end_time": "11:50",
+        "days": "T TH"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 3501,
+        "course_name": "COMP ORGANIZATN/DSN",
+        "credits": 3,
+        "start_time": "10:30",
+        "end_time": "11:20",
+        "days": "M W F"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4101,
+        "course_name": "PROG LANGUAGES",
+        "credits": 3,
+        "start_time": "10:30",
+        "end_time": "11:50",
+        "days": "T TH"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4101,
+        "course_name": "PROG LANGUAGES",
+        "credits": 3,
+        "start_time": "3:00",
+        "end_time": "4:20",
+        "days": "T TH"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4103,
+        "course_name": "OPERATING SYSTEMS",
+        "credits": 3,
+        "start_time": "5:00",
+        "end_time": "6:20",
+        "days": "N T TH"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4263,
+        "course_name": "VIDEO GAME DESIGN",
+        "credits": 3,
+        "start_time": "4:30",
+        "end_time": "5:50",
+        "days": "N T TH"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4330,
+        "course_name": "SOFTWARE SYST DEVEL",
+        "credits": 3,
+        "start_time": "3:30",
+        "end_time": "4:50",
+        "days": "M W"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4332,
+        "course_name": "SW QUALITY & TESTIN",
+        "credits": 3,
+        "start_time": "9:30",
+        "end_time": "10:20",
+        "days": "M W F"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4343,
+        "course_name": "APPLIED DEEP LEARN",
+        "credits": 3,
+        "start_time": "12:30",
+        "end_time": "3:20",
+        "days": "F"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4351,
+        "course_name": "COMPILER CONSTRUCTN",
+        "credits": 3,
+        "start_time": "9:00",
+        "end_time": "10:20",
+        "days": "T TH"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4360,
+        "course_name": "MALWARE ANALYSIS/RE",
+        "credits": 3,
+        "start_time": "3:30",
+        "end_time": "6:20",
+        "days": "M"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4360,
+        "course_name": "MALWARE ANALYSIS/RE",
+        "credits": 3,
+        "start_time": "12:30",
+        "end_time": "3:20",
+        "days": "W"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4402,
+        "course_name": "INTR DATABSE MGT SY",
+        "credits": 3,
+        "start_time": "12:00",
+        "end_time": "1:20",
+        "days": "T TH"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4444,
+        "course_name": "ARTIFICIAL INTELLIG",
+        "credits": 3,
+        "start_time": "12:00",
+        "end_time": "1:20",
+        "days": "T TH"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4501,
+        "course_name": "COMPUTER NETWORKS",
+        "credits": 3,
+        "start_time": "4:30",
+        "end_time": "5:50",
+        "days": "N T TH"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4512,
+        "course_name": "OPTIMIZATION",
+        "credits": 3,
+        "start_time": "3:00",
+        "end_time": "4:20",
+        "days": "T TH"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4562,
+        "course_name": "MOBILE SEC & CRYPTO",
+        "credits": 3,
+        "start_time": "1:30",
+        "end_time": "2:50",
+        "days": "T TH"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4700,
+        "course_name": "WEB SEC & PEN TEST",
+        "credits": 3,
+        "start_time": "10:30",
+        "end_time": "11:50",
+        "days": "T TH"
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4740,
+        "course_name": "BIG DATA TECH",
+        "credits": 3,
+        "start_time": "9:00",
+        "end_time": "10:20",
+        "days": "T TH"
+    }
+]

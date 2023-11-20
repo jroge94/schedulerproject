@@ -1,0 +1,302 @@
+[
+    {
+        "dept": "CSC",
+        "course_number": 2259,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": false,
+        "workload": 6,
+        "groupProject": false,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 2262,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": false,
+        "workload": 6,
+        "groupProject": true,
+        "attendance_grade": true
+    },
+    {
+        "dept": "CSC",
+        "course_number": 2262,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": false,
+        "workload": 10,
+        "groupProject": false,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 2362,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": false,
+        "workload": 6,
+        "groupProject": false,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 2463,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": false,
+        "workload": 6,
+        "groupProject": false,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 2610,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": false,
+        "workload": 6,
+        "groupProject": false,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 3102,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": false,
+        "workload": 15,
+        "groupProject": false,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 3200,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": false,
+        "workload": 3,
+        "groupProject": false,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 3200,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": false,
+        "workload": 2,
+        "groupProject": false,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 3304,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": true,
+        "workload": 6,
+        "groupProject": true,
+        "attendance_grade": true
+    },
+    {
+        "dept": "CSC",
+        "course_number": 3304,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": true,
+        "workload": 8,
+        "groupProject": true,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 3380,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": false,
+        "workload": 15,
+        "groupProject": true,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 3501,
+        "prerequisites": [],
+        "Fall Only": true,
+        "Spring Only": false,
+        "workload": 6,
+        "groupProject": false,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4101,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": false,
+        "workload": 8,
+        "groupProject": false,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4101,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": false,
+        "workload": 10,
+        "groupProject": true,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4103,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": false,
+        "workload": 8,
+        "groupProject": false,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4263,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": false,
+        "workload": 6,
+        "groupProject": false,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4330,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": false,
+        "workload": 8,
+        "groupProject": false,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4332,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": false,
+        "workload": 6,
+        "groupProject": false,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4343,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": false,
+        "workload": 6,
+        "groupProject": false,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4351,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": false,
+        "workload": 6,
+        "groupProject": false,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4360,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": false,
+        "workload": 6,
+        "groupProject": false,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4360,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": false,
+        "workload": 6,
+        "groupProject": false,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4402,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": false,
+        "workload": 6,
+        "groupProject": false,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4444,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": true,
+        "workload": 12,
+        "groupProject": true,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4501,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": false,
+        "workload": 6,
+        "groupProject": false,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4512,
+        "prerequisites": [4444],
+        "Fall Only": false,
+        "Spring Only": false,
+        "workload": 8,
+        "groupProject": false,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4562,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": false,
+        "workload": 8,
+        "groupProject": true,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4700,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": false,
+        "workload": 6,
+        "groupProject": false,
+        "attendance_grade": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4740,
+        "prerequisites": [],
+        "Fall Only": false,
+        "Spring Only": false,
+        "workload": 10,
+        "groupProject": false,
+        "attendance_grade": false
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "dept": "CSC",
+        "course_number": 2259,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 2262,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 2262,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 2362,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 2463,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 2610,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 3102,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 3200,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 3200,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 3304,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 3304,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 3380,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 3501,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4101,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4101,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4103,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4263,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4330,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4332,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4343,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4351,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4360,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4360,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4402,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4444,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4501,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4512,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4562,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4700,
+        "complete": false
+    },
+    {
+        "dept": "CSC",
+        "course_number": 4740,
+        "complete": false
+    }
+]
