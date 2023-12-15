@@ -1,25 +1,24 @@
 cmake_minimum_required(VERSION 3.19)
 
-set(CMAKE_TOOLCHAIN_FILE "${VCPKG_ROOT}/vcpkg/scripts/buildsystems/vcpkg.cmake"
-CACHE STRING "Vcpkg toolchain file")
+# Set the toolchain file provided by vcpkg before the project declaration
+set(CMAKE_TOOLCHAIN_FILE "C:/Workspace/Tools/vcpkg/scripts/buildsystems/vcpkg.cmake" CACHE STRING "")
 
-project(fall2023-csc3380-project)
-
+project(schedulerproject)
 
 set(CMAKE_CXX_STANDARD 20)
 
 enable_testing()
 include(CTest)
 
+# Find the nlohmann_json package
 find_package(nlohmann_json REQUIRED)
 
-
-
-
 ## COMMENT OUT FOR TESTING ##
-add_executable(project code/project.cpp)
-target_include_directories(project PRIVATE ${CMAKE_CURRENT_SOURCE_DIR})
-target_link_libraries(project PRIVATE nlohmann_json::nlohmann_json)
+add_executable(schedulerproject code/project.cpp)
+
+# Link nlohmann_json to your project
+target_link_libraries(schedulerproject PRIVATE nlohmann_json::nlohmann_json)
+
 
 ## COMMENT OUT FOR TESTING ##
 
@@ -31,8 +30,3 @@ target_link_libraries(project PRIVATE nlohmann_json::nlohmann_json)
 # target_include_directories(tests PRIVATE ${CMAKE_CURRENT_SOURCE_DIR})
 # target_link_libraries(tests PRIVATE nlohmann_json::nlohmann_json)
 ## UNCOMMENT FOR TESTING ##
-
-
-message("VCPKG_ROOT: ${VCPKG_ROOT}")
-message("CMAKE_CURRENT_SOURCE_DIR: ${CMAKE_CURRENT_SOURCE_DIR}")
-message("CMAKE_CURRENT_BINARY_DIR: ${CMAKE_CURRENT_BINARY_DIR}")

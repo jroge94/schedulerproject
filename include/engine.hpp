@@ -13,8 +13,6 @@
     The Course Recommendation Engine is responsible for generating recommendations based on the user's preference
 */
 
-
-
 class CourseRecommendationEngine {
 public:
     std::vector<CourseCatalog> recommendedCourses;

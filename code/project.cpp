@@ -11,9 +11,10 @@ int main() {
 
 
     // Set user preferences
+    // This is just to demonstrate the recommendation engine
     UserPreferences preferences;
     preferences.set_User("John");
-    preferences.set_userWorkload(28);
+    preferences.set_userWorkload(20);
     preferences.set_userAttendance(3);
     preferences.set_userGroupProjects(3);
     preferences.set_completedCourses({4360, 4402, 4444, 2262, 2362, 2463, 2610, 3102});
@@ -35,23 +36,6 @@ int main() {
         std::cout << course << "\n";
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     // // Set user preferences
