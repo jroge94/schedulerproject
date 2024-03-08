@@ -1,8 +1,11 @@
-# Class Scheduler: An Innovative Solution for Optimal Course Planning
-In the complex and often stressful world of academic scheduling, students face numerous challenges that can impact not only their academic performance but also their overall well-being. The "Class Scheduler" project is an ambitious initiative aimed at revolutionizing the way students approach course scheduling by addressing critical issues that are often overlooked in traditional scheduling systems.
+# Class Scheduler(better name in the works): An Innovative Solution for Optimal Course Planning
+In the complex and often stressful world of academic scheduling, students face numerous challenges that can impact not only their academic performance but also their overall well-being. 
+The "Class Scheduler" project is an ambitious initiative aimed at revolutionizing the way students approach course scheduling by addressing critical issues that are often overlooked in traditional scheduling systems.
 
 ## Key Challenges Addressed:
-Assessing Workload Transparency: One of the core features of this project is to provide clear insights into the expected workload of each class. Often, students enroll in courses without a clear understanding of the time and effort required, leading to overwhelming situations. Our scheduler will incorporate data on coursework intensity, assignment frequency, and overall time commitment, enabling students to make informed decisions based on their personal schedules and capacities.
+Assessing Workload Transparency: One of the core features of this project is to provide clear insights into the expected workload of each class. 
+Often, students enroll in courses without a clear understanding of the time and effort required, leading to overwhelming situations. 
+Our scheduler will incorporate data on coursework intensity, assignment frequency, and overall time commitment, enabling students to make informed decisions based on their personal schedules and capacities.
 
 ## Participation-Based Grading Insight: 
 Active participation is a crucial component of many courses, yet its impact on grades isn't always clear at the outset. The Class Scheduler intends to highlight courses where participation significantly influences the final grade. This feature is particularly beneficial for students who may need to balance multiple responsibilities and wish to understand how their engagement in class discussions and activities will be evaluated.
